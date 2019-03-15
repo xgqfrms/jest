@@ -1,15 +1,15 @@
 ---
 id: getting-started
-title: Getting Started
+title: 开始上手
 ---
 
-Install Jest using [`yarn`](https://yarnpkg.com/en/package/jest):
+安装 Jest 用 [`yarn`](https://yarnpkg.com/en/package/jest):
 
 ```bash
 yarn add --dev jest
 ```
 
-Or [`npm`](https://www.npmjs.com/):
+或 [`npm`](https://www.npmjs.com/):
 
 ```bash
 npm install --save-dev jest
