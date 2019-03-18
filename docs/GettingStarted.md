@@ -3,7 +3,7 @@ id: getting-started
 title: 开始上手
 ---
 
-安装 Jest 用 [`yarn`](https://yarnpkg.com/en/package/jest):
+# 安装 Jest 用 [`yarn`](https://yarnpkg.com/en/package/jest):
 
 ```bash
 yarn add --dev jest
