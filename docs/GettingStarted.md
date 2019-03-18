@@ -79,7 +79,7 @@ Based on your project, Jest will ask you a few questions and will create a basic
 jest --init
 ```
 
-### Using Babel
+### 使用 Babel
 
 To use [Babel](http://babeljs.io/), install required dependencies via `yarn`:
 
